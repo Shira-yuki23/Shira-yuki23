@@ -4,8 +4,8 @@
 🧠 Learning C, C++, Web  
 🌙 Code + Pray + Repeat  
 
-<img src="[https://skillicons.dev/icons?i=c,cpp,html,css,js](https://kr.pinterest.com/pin/91409067434007741/)" />
+<img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="250" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shira-yuki23&show_icons=true&theme=radical)
