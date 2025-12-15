@@ -1,33 +1,32 @@
-## Hi, I'm Musfirat ✨
+## Hi, I'm Musfirat 🌸 
 
-<h2 align="center">Hi, I'm Musfirat 🌷</h2>
 
-<p align="center">
+<p align="left">
   ♡ CSE Student  • Learning one bug at a time ♡
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="220" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
 </p>
 
 ---
 
-### 🍓 About me
-- 💻  C & C++
+### About me
+- 🌸  C & C++
 - 🌸 Becoming better every day, slowly & sincerely
 
 ---
 
-### ✨ GitHub Stats
-<p align="center">
+###  GitHub Stats
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shira-yuki23&show_icons=true&theme=radical" />
 </p>
 
