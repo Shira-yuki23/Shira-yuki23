@@ -1,8 +1,8 @@
 ## Hi, I'm Musfirat 👋✨
 
 💻 CSE Student  
-🧠 Learning C, C++, Web  
-🌙 Code + Pray + Repeat  
+Learning C, C++, Web  
+  
 
 <img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="250" />
 
