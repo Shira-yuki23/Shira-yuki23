@@ -37,7 +37,7 @@
   <a href="mailto:farihamusfirat@iut-dhaka.edu">
     <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/fariha-musfirat-shifa-7ab051364/">
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=babypink"/>
   </a>
   <a href="#">
