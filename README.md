@@ -3,18 +3,15 @@
 
 <p>
   ♡ CSE Undergrad Student♡
-  <p align="right">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-</p>
 </p>
 
-<!-- <p align="right">
+<p align="right">
   <img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="220" />
+</p> 
+ <!-- <p align="right">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
 </p> -->
 
-
-
----
 
 #About me
 - 🌸  C & C++
@@ -22,12 +19,14 @@
 
 ###  GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical" />
-</p>
-
-<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Shira-yuki23&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical" />
+ <!-- <p align="right">-->
+  
 </p>
+<!--</p>>
+
+
 
 ---
 
@@ -43,7 +42,6 @@
     <img src="https://img.shields.io/badge/Discord-E6A8D7?style=for-the-badge&logo=discord&logoColor=grey"/>
   </a> -->
 </p>
-
-<!-- <p align="center">
-  🌸 thanks for stopping by 🌸 -->
+ <p align="center">
+  🌸 thanks for stopping by 🌸 
 </p>
