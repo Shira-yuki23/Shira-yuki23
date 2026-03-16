@@ -2,12 +2,12 @@
 
 
 <p align="left">
-  ♡ CSE Student  • Learning one bug at a time ♡
+  ♡ CSE Undergrad Student♡
 </p>
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="220" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
@@ -15,11 +15,9 @@
 
 ---
 
-### About me
+#About me
 - 🌸  C & C++
-- 🌸 Becoming better every day, slowly & sincerely
 
----
 
 ###  GitHub Stats
 <p align="left">
@@ -40,11 +38,11 @@
   <a href="https://www.linkedin.com/in/fariha-musfirat-shifa-7ab051364/">
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=babypink"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/Discord-E6A8D7?style=for-the-badge&logo=discord&logoColor=grey"/>
-  </a>
+  </a> -->
 </p>
 
-<p align="center">
-  🌸 thanks for stopping by 🌸
+<!-- <p align="center">
+  🌸 thanks for stopping by 🌸 -->
 </p>
