@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Shira-yuki23&show_icons=true&theme=radical" />
 </p>
 
