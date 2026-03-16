@@ -1,7 +1,7 @@
 ## Hi, I'm Musfirat 🌸 
 
 
-<p align="left">
+<p>
   ♡ CSE Undergrad Student♡
   <p align="right">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
