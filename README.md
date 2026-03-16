@@ -21,12 +21,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shira-yuki23&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&theme=radical" />
- <!-- <p align="right">-->
-  
 </p>
-<!--</p>>
-
-
 
 ---
 
@@ -38,9 +33,6 @@
   <a href="https://www.linkedin.com/in/fariha-musfirat-shifa-7ab051364/">
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=babypink"/>
   </a>
-  <!-- <a href="#">
-    <img src="https://img.shields.io/badge/Discord-E6A8D7?style=for-the-badge&logo=discord&logoColor=grey"/>
-  </a> -->
 </p>
  <p align="center">
   🌸 thanks for stopping by 🌸 
