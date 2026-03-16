@@ -3,15 +3,16 @@
 
 <p align="left">
   ♡ CSE Undergrad Student♡
+  <p align="right">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
+</p>
 </p>
 
 <!-- <p align="right">
   <img src="https://images.payhip.com/o_1g2ksk2v7q731jp717qgmr9kc41k.gif" width="220" />
 </p> -->
 
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-</p>
+
 
 ---
 
