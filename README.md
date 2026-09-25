@@ -1,1 +1,33 @@
-🌸 Trying to not fit in 🌸
+<div align="center">
+  <img src="assets/princess-banner.svg" alt="Shira's little kingdom — code, curiosity, stardust" width="100%" />
+</div>
+
+<div align="center">
+
+### ✦ welcome to my cozy corner of GitHub ✦
+
+🌸 *trying beautifully not to fit in* 🌸
+
+<sub>building, learning, and leaving a little sparkle in every project.</sub>
+
+<br />
+<br />
+
+<a href="https://github.com/Shira-yuki23?tab=repositories">
+  <img src="https://img.shields.io/badge/explore_my_repositories-F8C8DD?style=for-the-badge&labelColor=FFF7FB&color=E887B8" alt="Explore my repositories" />
+</a>
+
+<br />
+<br />
+
+```text
+     ⋆｡°✩  dream it  ·  make it  ·  let it shine  ✩°｡⋆
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shira-yuki23&theme=rose_pine&hide_border=true&background=FFF7FB&ring=E887B8&fire=E887B8&currStreakLabel=9B3D68&sideLabels=9B3D68&dates=AD6B91" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Shira-yuki23&style=flat-square&color=E887B8&label=visitors+in+the+kingdom" alt="Profile views" />
+
+</div>

@@ -1,0 +1,35 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="80" y1="30" x2="1120" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4FA"/>
+      <stop offset=".48" stop-color="#FAD9EA"/>
+      <stop offset="1" stop-color="#EFB8D4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(595 174) rotate(90) scale(175 470)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity=".92"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#sky)"/>
+  <ellipse cx="150" cy="58" rx="110" ry="70" fill="#fff" opacity=".48" filter="url(#blur)"/>
+  <ellipse cx="1065" cy="352" rx="150" ry="80" fill="#fff" opacity=".4" filter="url(#blur)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow)"/>
+  <g fill="#D776A7">
+    <path d="M112 122l5 12 12 5-12 5-5 12-5-12-12-5 12-5 5-12z"/>
+    <path d="M1030 88l4 10 10 4-10 4-4 10-4-10-10-4 10-4 4-10z"/>
+    <path d="M954 317l5 12 12 5-12 5-5 12-5-12-12-5 12-5 5-12z"/>
+    <path d="M237 323l3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8z"/>
+  </g>
+  <g fill="#fff" opacity=".96">
+    <circle cx="78" cy="260" r="3"/><circle cx="168" cy="76" r="4"/><circle cx="265" cy="164" r="2.5"/>
+    <circle cx="338" cy="90" r="3"/><circle cx="872" cy="94" r="3"/><circle cx="1098" cy="210" r="4"/>
+    <circle cx="1125" cy="326" r="2.5"/><circle cx="899" cy="260" r="2.5"/><circle cx="177" cy="225" r="2"/>
+  </g>
+  <g text-anchor="middle" fill="#723554">
+    <text x="600" y="176" font-family="Georgia, serif" font-size="58" font-weight="700" letter-spacing="2">Shira’s little kingdom</text>
+    <text x="600" y="222" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">CODE  •  CURIOSITY  •  STARDUST</text>
+    <text x="600" y="288" font-family="Georgia, serif" font-size="24" font-style="italic">a soft place for ideas to grow ✦</text>
+  </g>
+  <path d="M0 370c130-46 219 28 355-8 131-35 195-80 332-40 153 44 276-35 513-10v108H0V370z" fill="#fff" opacity=".32"/>
+</svg>
