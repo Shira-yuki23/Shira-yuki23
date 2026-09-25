@@ -28,7 +28,9 @@
 
 ### ✦ languages in my spellbook ✦
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shira-yuki23&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=9B3D68&text_color=AD6B91&icon_color=E887B8" alt="Most used programming languages" />
+<a href="https://github.com/Shira-yuki23/Unravel"><code>Java</code></a>
+&nbsp;✦&nbsp;
+<a href="https://github.com/Shira-yuki23/CandidateKeyFinder"><code>C++</code></a>
 
 <br />
 
