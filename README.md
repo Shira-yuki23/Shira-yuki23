@@ -36,6 +36,4 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Shira-yuki23&style=flat-square&color=E887B8&label=visitors+in+the+kingdom" alt="Profile views" />
-
 </div>
