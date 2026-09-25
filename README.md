@@ -24,13 +24,20 @@
      ⋆｡°✩  dream it  ·  make it  ·  let it shine  ✩°｡⋆
 ```
 
-<img src="assets/shooting-stars.svg" alt="Pink shooting stars drifting across the page" width="100%" />
-
 ### ✦ languages in my spellbook ✦
 
 <a href="https://github.com/Shira-yuki23/Unravel"><code>Java</code></a>
 &nbsp;✦&nbsp;
 <a href="https://github.com/Shira-yuki23/CandidateKeyFinder"><code>C++</code></a>
+
+<br />
+
+### ⋆ stardust contribution trail ⋆
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail-dark.svg" />
+  <img alt="Animated pink stardust trail moving through my GitHub contributions" src="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail.svg" width="100%" />
+</picture>
 
 <br />
 
