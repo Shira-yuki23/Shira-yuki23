@@ -29,6 +29,22 @@
 <a href="https://github.com/Shira-yuki23/Unravel"><code>Java</code></a>
 &nbsp;✦&nbsp;
 <a href="https://github.com/Shira-yuki23/CandidateKeyFinder"><code>C++</code></a>
+&nbsp;✦&nbsp;
+<a href="https://github.com/Shira-yuki23/portfolio"><code>HTML</code></a>
+&nbsp;✦&nbsp;
+<a href="https://github.com/Shira-yuki23/portfolio"><code>CSS</code></a>
+&nbsp;✦&nbsp;
+<a href="https://github.com/Shira-yuki23/MeloFocus"><code>JavaScript</code></a>
+
+<br />
+
+<a href="https://github.com/Shira-yuki23/Pastella"><code>TypeScript</code></a>
+&nbsp;✦&nbsp;
+<code>PowerShell</code>
+&nbsp;✦&nbsp;
+<code>C</code>
+&nbsp;✦&nbsp;
+<code>CMake</code>
 
 <br />
 
