@@ -6,7 +6,7 @@
 
 ### ✦ welcome to my cozy corner of GitHub ✦
 
-🌸 *trying beautifully not to fit in* 🌸
+🌸 *trying whimsically not to fit in* 🌸
 
 <sub>building, learning, and leaving a little sparkle in every project.</sub>
 
@@ -41,7 +41,7 @@
 
 <br />
 
-### ⋆ stardust contribution trail ⋆
+### ⋆ sparkle and fairy dusts ⋆
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail-dark.svg?v=cloud-stars-v4" />
