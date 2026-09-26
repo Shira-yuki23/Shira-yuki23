@@ -51,8 +51,8 @@
 ### ⋆ stardust contribution trail ⋆
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail-dark.svg" />
-  <img alt="Animated pink stardust trail moving through my GitHub contributions" src="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail-dark.svg?v=cloud-stars-v3" />
+  <img alt="A golden-outlined cloud collecting multicolour stardust from my GitHub contributions" src="https://raw.githubusercontent.com/Shira-yuki23/Shira-yuki23/output/stardust-contribution-trail.svg?v=cloud-stars-v3" width="100%" />
 </picture>
 
 <br />

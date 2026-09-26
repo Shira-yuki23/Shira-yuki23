@@ -7,7 +7,7 @@ const outputFiles = [
 
 const starPath = "M6 0.55l1.43 3.73 4.02.16-3.14 2.52 1.1 3.82L6 8.62l-3.41 2.16 1.1-3.82L.55 4.44l4.02-.16L6 .55z";
 
-const cloud = `<g class="s s0" aria-label="A cloud collecting stardust"><g transform="translate(-9 -9)"><path d="M10 21.5h14.7a5.3 5.3 0 0 0 .3-10.6 7.3 7.3 0 0 0-13.9 1.7A4.7 4.7 0 0 0 10 21.5z" fill="#fff8fc" stroke="#e879a9" stroke-width="1.15"/><circle cx="15.2" cy="16.2" r=".9" fill="#9b3f70"/><circle cx="20.2" cy="16.2" r=".9" fill="#9b3f70"/><path d="M16.7 18.2q.95.85 1.9 0" stroke="#9b3f70" stroke-width=".8" stroke-linecap="round" fill="none"/><path d="M25.7 14.8c2.1-1.5 3.25-.45 3 1.35" stroke="#fff8fc" stroke-width="2.2" stroke-linecap="round" fill="none"/><path d="M28.25 13.3l.52.88 1.02.12-.75.7.18 1-.97-.43-.9.48.12-1-.8-.64 1.02-.18.56-.85z" fill="#f9a8d4"/></g></g>`;
+const cloud = `<g class="s s0" aria-label="A cloud collecting stardust"><g transform="translate(-9 -9)"><path d="M10 21.5h14.7a5.3 5.3 0 0 0 .3-10.6 7.3 7.3 0 0 0-13.9 1.7A4.7 4.7 0 0 0 10 21.5z" fill="#fff8fc" stroke="#f6c85f" stroke-width="1.15"/><circle cx="15.2" cy="16.2" r=".9" fill="#9b3f70"/><circle cx="20.2" cy="16.2" r=".9" fill="#9b3f70"/><path d="M16.7 18.2q.95.85 1.9 0" stroke="#9b3f70" stroke-width=".8" stroke-linecap="round" fill="none"/><path d="M25.7 14.8c2.1-1.5 3.25-.45 3 1.35" stroke="#fff8fc" stroke-width="2.2" stroke-linecap="round" fill="none"/><path d="M28.25 13.3l.52.88 1.02.12-.75.7.18 1-.97-.43-.9.48.12-1-.8-.64 1.02-.18.56-.85z" fill="#f6c85f"/></g></g>`;
 
 for (const file of outputFiles) {
   let svg = await readFile(file, "utf8");
